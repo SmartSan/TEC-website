@@ -1,0 +1,28 @@
+.formcontents
+{
+	font-size:19px;
+	text-decoration:none;
+	color:blue;
+}
+.maindiv
+{
+	position:relative ;
+	top:0px ;
+	left:0px;
+}
+.popupdiv
+{
+	position:absolute;
+	top:20%;
+	left:30%;
+	width:500px;
+	height:400px;
+}
+.formdiv
+{
+	position:absolute;
+	top:20%;
+	left:30%;
+	width:500px;
+	background-color:#F7EFEF;
+}

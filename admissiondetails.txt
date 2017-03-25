@@ -1,0 +1,17 @@
+
+name:Sammed Sunil Patil
+dob:25-Dec-1998
+sex:male
+fathername:Sunil Babasaheb Patil
+percentage:
+address:F-2,Vijaya appt,plot no.37,S.T Colony,Rajarampuri,Kolhapur
+contact:9762428320
+email:coolsammedp25@gmail.com
+name:Sammed Sunil Patil
+dob:25-Dec-1998
+sex:male
+fathername:Sunil Babasaheb Patil
+percentage:
+address:F-2,Vijaya appt,Plot no.37,St colony,Rajarampuri,kolhapur
+contact:9762428320
+email:coolsammedp25@gmail.com

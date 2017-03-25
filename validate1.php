@@ -1,0 +1,20 @@
+<?php
+$myfile = fopen("course.txt", "a") ;
+$name=$_POST["name"];
+$degree=$_POST["degree"];
+$branch=$_POST["branch"];
+$board=$_POST["board"];
+$cutoff=$_POST["cutoff"];
+fwrite($myfile,"\nname:");
+fwrite($myfile,$name);
+fwrite($myfile,"\ndegree:");
+fwrite($myfile,$degree);
+fwrite($myfile,"\nbranch:");
+fwrite($myfile,$branch);
+fwrite($myfile,"\nboard:");
+fwrite($myfile,$board);
+fwrite($myfile,"\ncutoff:");
+fwrite($myfile,$cutoff);
+fclose($myfile);
+header("Location:admission.php");
+?>
